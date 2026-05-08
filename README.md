@@ -33,4 +33,4 @@ Este proyecto utiliza únicamente la biblioteca estándar de Python, por lo que 
    cd FlashPy_CLI
 3. Ejecuta el script principa:
    ```bash
-   python main.py
+   python FlashPy_CLI.py
